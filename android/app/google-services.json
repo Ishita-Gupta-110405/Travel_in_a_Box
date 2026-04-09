@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "296165423529",
+    "project_id": "travel-in-a-box",
+    "storage_bucket": "travel-in-a-box.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296165423529:android:d617b8496bd395f5872cb8",
+        "android_client_info": {
+          "package_name": "com.example.travel_in_a_box"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNUYZ_hgnTOEyqR-ruUIYO2lAPL3hMIXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
