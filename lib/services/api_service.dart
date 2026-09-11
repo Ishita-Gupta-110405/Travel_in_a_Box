@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 
 class ApiService {
   // Your actual API key is loaded and ready
-  static const String _apiKey = "92d13108a18747c685dbf9d9a3486619";
+  static const String _apiKey = "";
   static const String _baseUrl = "https://api.geoapify.com/v2/places";
 
   /// 1. DYNAMIC GEOCODING
